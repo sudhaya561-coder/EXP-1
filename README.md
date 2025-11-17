@@ -55,8 +55,13 @@ Calculation:
 
 a.   KVL:
  
-$$ V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega} $$
+$$ V=V_{1}+V_{2}+V_{3} $$
 
+$$ 100=IR_{1}+IR_{2}+IR_{3} $$
+
+$$ R_{eq}=R_{1}+R_{2}+R_{3} $$
+
+$$R_{eq}=180\Omega$$
 b.  KCL:
 
 
